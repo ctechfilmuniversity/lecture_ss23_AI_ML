@@ -2,7 +2,7 @@
 
 **Syllabus**
 
-This seminar aims to give students a background in the history of AI research and an overview of current debates concerning the role of AI in society and its current implementations (e.g. Generative Modelling, Computer Vision, Reinforcement Learning, Text-to-Image Generation) in contemporary creative practices. In addition, participants will gain an overview of the current tools available to build machine learning models.
+This workshop aims to give students a background in the history of AI research and an overview of current debates concerning the role of AI in society and its current implementations (e.g. Generative Modelling, Computer Vision, Reinforcement Learning, Text-to-Image Generation) in contemporary creative practices. In addition, participants will gain an overview of the current tools available to build machine learning models.
 
 *Future iterations*: Will include a series of “tech demos” of various AI applications, programming environments and plugins (e.g. various generative neural networks, tools such as AirSim and DeepDrive, RunwayML) Participants will build a simple neural network (probably a GAN) in Google Colab using Tensor Flow with a given dataset. Guest lecture on AI ethics?
 
